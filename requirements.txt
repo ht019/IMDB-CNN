@@ -1,6 +1,5 @@
-tensorflow==2.12.0  # 指定 TensorFlow 版本（根据你的代码兼容性调整）
+tensorflow==2.16.1
 streamlit==1.28.0
 numpy==1.24.3
 pandas==2.0.3
-keras==2.12.0  # 如果代码中用到 Keras
-h5py==3.9.0  # 用于加载 .h5 权重文件
+h5py==3.9.0
